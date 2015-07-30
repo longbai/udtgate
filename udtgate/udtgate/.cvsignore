@@ -1,0 +1,12 @@
+autom4te.cache
+config.status
+Makefile
+.externalToolBuilders
+udtgate-*.tar.gz
+configure.scan
+configure.log
+config.log
+NEWS.sav
+core.*
+gmon.out
+.libs
